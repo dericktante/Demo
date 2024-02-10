@@ -7,7 +7,7 @@
 - Item 3
 - Item 4
 
-system.out.printIn("Hello World");
+system.out.println("Hello World");
 
 Link To Website: **[Oklahoma City University](https://okcu.edu)**.
 
