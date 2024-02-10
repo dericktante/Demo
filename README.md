@@ -10,3 +10,6 @@
 system.out.print\n("Hello World");
 
 Link To Website: **[Oklahoma City University](https://okcu.edu)**.
+
+Load Image
+![Oklahoma City University](https://www.okcu.edu/images/OCU_logo_stacked.png"OKCU")
