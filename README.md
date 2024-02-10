@@ -13,4 +13,4 @@ Link To Website: **[Oklahoma City University](https://okcu.edu)**.
 
 Load Image:
 
-![Shutterstock_2079263023](https://github.com/dericktante/Demo/assets/156044704/112c8f16-f394-4255-9da9-ad1aba02895e)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fafrotech.com%2Ftech-startup-karat-launches-program-to-help-black-software-engineers-secure-jobs%2F&psig=AOvVaw3xFAh4zxGoBgjt69_D_Fb4&ust=1707613831368000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCBnK_Ln4QDFQAAAAAdAAAAABAJ
